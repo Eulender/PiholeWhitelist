@@ -1,3 +1,4 @@
-www.orf.at
-www.derstandard.at
-bgvbruck.at
+Domain;Wild;
+www.orf.at;n;
+derstandard.at;y;
+bgvbruck.at;y;
