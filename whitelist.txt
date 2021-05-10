@@ -1,4 +1,5 @@
-Domain;Wild;
-www.orf.at;n;
+Domain;Wild;Info;
+www.orf.at;n;Österreichisches Nachrichtenportal;
 derstandard.at;y;
-bgvbruck.at;y;
+bgvbruck.at;y;Schule in Vöcklabruck
+forms.gle;n;Google Url Shortener;
