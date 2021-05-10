@@ -2,6 +2,9 @@
 <# 	Update Whitelists from Github
 	Powershell Script
 	Install/Update with wget -N https://raw.githubusercontent.com/Eulender/PiholeWhitelist/master/whitelist.ps1
+	
+	Update with cron
+	wget https://raw.githubusercontent.com/Eulender/PiholeWhitelist/master/whitelist.ps1 -O /path/to/file
 #>
 
 $source = 'https://raw.githubusercontent.com/Eulender/PiholeWhitelist/master/whitelist.txt'
