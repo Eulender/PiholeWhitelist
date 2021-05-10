@@ -4,3 +4,4 @@ derstandard.at;y;Österreichisches Nachrichtenportal;
 bgvbruck.at;y;Schule in Vöcklabruck;
 forms.gle;n;Google Url Shortener;
 npttech.com;y;Adblocker DerStandard.at;
+gymgmunden.at;y;Schule in Gmunden;
