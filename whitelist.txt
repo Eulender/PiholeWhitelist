@@ -6,3 +6,4 @@ forms.gle;n;Google Url Shortener;
 npttech.com;y;Adblocker DerStandard.at;
 gymgmunden.at;y;Schule in Gmunden;
 schlosswagrain.at;y;Schule in vöcklabruck;
+browser.pipe.aria.microsoft.com;n;Microsoft;
