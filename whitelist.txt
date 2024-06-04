@@ -8,3 +8,4 @@ gymgmunden.at;y;Schule in Gmunden;
 schlosswagrain.at;y;Schule in vöcklabruck;
 browser.pipe.aria.microsoft.com;n;Microsoft;
 sway.microsoft.com;n;Microsoft Sway;
+sway.com;y;Sway;
